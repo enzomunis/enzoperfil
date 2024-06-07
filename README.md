@@ -2,7 +2,7 @@
 
 Meu nome é Enzo Munis
 
-Estou estudando na ![Alura](https://www.alura.com.br)
+Estou estudando na [Alura](https://www.alura.com.br)
 
 Estou me desnvolvendo na linguagem JavaScript
 
